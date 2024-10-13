@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wessel Joubert
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently studing towards my OSCP
+- 🌱 I’m completed my Hack the Box CPTS
 - 💞️ I’m looking to collaborate on anything relating to OSCP
 - 📫 How to reach me wjoubert@outlook.com
 
